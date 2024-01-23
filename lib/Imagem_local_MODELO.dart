@@ -19,7 +19,6 @@ class Imagem_local_MODELO extends StatelessWidget {
         Text('Imagem por asset'),
         Card(
           child: Image.asset(imagPath),
-
         ),
       ],
     );
